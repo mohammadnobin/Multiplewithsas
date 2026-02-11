@@ -16,3 +16,7 @@ Source: `sass/component/_pricing.scss` (204 lines)
 - `.card-subtitle`
 - `h6`
 - `span`
+- `.card-text`
+- `.dev`
+- `.list-group-item`
+- `i`
