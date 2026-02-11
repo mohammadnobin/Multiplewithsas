@@ -20,3 +20,5 @@ Source: `sass/component/_pricing.scss` (204 lines)
 - `.dev`
 - `.list-group-item`
 - `i`
+- `.card-button`
+- `a.btnprimary-other`
