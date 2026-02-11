@@ -1,0 +1,24 @@
+# style.css
+
+Source: `sass/style.css` (951 lines)
+
+## Selectors
+
+- `*`
+- `a`
+- `img`
+- `li`
+- `body`
+- `.section-hader h2`
+- `.section-hader p`
+- `.activa`
+- `.navbar-nav .nav-link.active, .navbar-nav .nav-link.show`
+- `.nav-link:focus, .nav-link:hover`
+- `.navbar`
+- `.navbar li`
+- `.navbar li a`
+- `.navbar li a:hover`
+- `.navbar .nav-logo`
+- `.navbar .nav-logo span`
+- `.navbar .nav-botton`
+- `.navbar .nav-botton:focus`
