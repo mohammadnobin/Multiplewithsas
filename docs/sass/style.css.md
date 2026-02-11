@@ -26,3 +26,5 @@ Source: `sass/style.css` (951 lines)
 - `.navbar .log-in`
 - `.navbar .log-in:hover`
 - `.navbar .sing-up`
+- `.navbar .sing-up:hover`
+- `.scroll-color`
