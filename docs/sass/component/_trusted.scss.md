@@ -6,3 +6,5 @@ Source: `sass/component/_trusted.scss` (14 lines)
 
 - `#Trusted`
 - `.trusted`
+- `h4`
+
