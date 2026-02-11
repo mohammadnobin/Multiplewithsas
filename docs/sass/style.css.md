@@ -22,3 +22,7 @@ Source: `sass/style.css` (951 lines)
 - `.navbar .nav-logo span`
 - `.navbar .nav-botton`
 - `.navbar .nav-botton:focus`
+- `.navbar .nav-botton .nav-icon`
+- `.navbar .log-in`
+- `.navbar .log-in:hover`
+- `.navbar .sing-up`
