@@ -22,3 +22,6 @@ Source: `sass/component/_pricing.scss` (204 lines)
 - `i`
 - `.card-button`
 - `a.btnprimary-other`
+- `&:hover`
+- `a.btnprimary`
+
