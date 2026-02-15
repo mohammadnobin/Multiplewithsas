@@ -16,3 +16,7 @@ Source: `sass/component/_about.scss` (106 lines)
 - `.about-right-muddle`
 - `.about-right-bottom`
 - `.nav-pills .nav-link`
+- `&:focus`
+- `&.active`
+- `#our-team`
+- `.our-team`
