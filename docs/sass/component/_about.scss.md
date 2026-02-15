@@ -6,3 +6,7 @@ Source: `sass/component/_about.scss` (106 lines)
 
 - `#about-us`
 - `.about-us`
+- `.about-us-left`
+- `img`
+- `.about-us-right`
+- `.about-right-top`
