@@ -28,3 +28,5 @@ Source: `sass/style.css` (951 lines)
 - `.navbar .sing-up`
 - `.navbar .sing-up:hover`
 - `.scroll-color`
+- `#benner`
+- `#benner .banner h1`
