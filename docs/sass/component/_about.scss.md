@@ -20,3 +20,7 @@ Source: `sass/component/_about.scss` (106 lines)
 - `&.active`
 - `#our-team`
 - `.our-team`
+- `.our-team-bottom`
+- `.team-item`
+- `&:hover`
+- `.down-content`
