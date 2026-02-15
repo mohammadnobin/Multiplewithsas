@@ -10,3 +10,7 @@ Source: `sass/component/_about.scss` (106 lines)
 - `img`
 - `.about-us-right`
 - `.about-right-top`
+- `h5`
+- `h2`
+- `p`
+- `.about-right-muddle`
