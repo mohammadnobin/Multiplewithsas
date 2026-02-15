@@ -30,3 +30,5 @@ Source: `sass/style.css` (951 lines)
 - `.scroll-color`
 - `#benner`
 - `#benner .banner h1`
+- `#benner .banner .banner-from input`
+- `#benner .banner .banner-from input::-moz-placeholder`
