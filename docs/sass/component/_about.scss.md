@@ -14,3 +14,5 @@ Source: `sass/component/_about.scss` (106 lines)
 - `h2`
 - `p`
 - `.about-right-muddle`
+- `.about-right-bottom`
+- `.nav-pills .nav-link`
