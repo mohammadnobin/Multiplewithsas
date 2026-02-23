@@ -38,3 +38,7 @@ Source: `sass/style.css` (951 lines)
 - `#benner .banner .csckbox`
 - `#benner .banner .csckbox input`
 - `#Trusted`
+- `#Trusted .trusted h4`
+- `#Services`
+- `#Services .service .service-top`
+- `#Services .service .service-top h4`
