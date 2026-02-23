@@ -13,3 +13,11 @@ Page title: **Multi page**
 - `https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js`
 - `js/app.js`
 
+## Sections
+
+- `nav.navbar`
+
+## Element ids
+
+- `navber`
+- `navbarText`

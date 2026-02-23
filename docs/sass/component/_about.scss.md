@@ -24,3 +24,5 @@ Source: `sass/component/_about.scss` (106 lines)
 - `.team-item`
 - `&:hover`
 - `.down-content`
+- `h4`
+

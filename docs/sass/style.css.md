@@ -32,3 +32,9 @@ Source: `sass/style.css` (951 lines)
 - `#benner .banner h1`
 - `#benner .banner .banner-from input`
 - `#benner .banner .banner-from input::-moz-placeholder`
+- `#benner .banner .banner-from input::placeholder`
+- `#benner .banner .banner-from input:focus`
+- `#benner .banner .banner-from .search`
+- `#benner .banner .csckbox`
+- `#benner .banner .csckbox input`
+- `#Trusted`
