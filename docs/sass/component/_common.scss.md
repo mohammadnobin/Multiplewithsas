@@ -8,3 +8,7 @@ Source: `sass/component/_common.scss` (60 lines)
 - `a`
 - `img`
 - `li`
+- `body`
+- `.section-hader h2`
+- `.section-hader p`
+- `.activa`
