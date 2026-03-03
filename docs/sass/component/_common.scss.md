@@ -12,3 +12,6 @@ Source: `sass/component/_common.scss` (60 lines)
 - `.section-hader h2`
 - `.section-hader p`
 - `.activa`
+- `.navbar-nav .nav-link.active, .navbar-nav .nav-link.show`
+- `.nav-link:focus, .nav-link:hover`
+
