@@ -48,3 +48,5 @@ Source: `sass/style.css` (951 lines)
 - `#Services .service-buttom .card i`
 - `#Services .service-buttom .card .card-title`
 - `#Services .service-buttom .card .card-text`
+- `#pricing`
+- `.pricing-bottom`
