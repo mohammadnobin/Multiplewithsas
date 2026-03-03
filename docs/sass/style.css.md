@@ -50,3 +50,5 @@ Source: `sass/style.css` (951 lines)
 - `#Services .service-buttom .card .card-text`
 - `#pricing`
 - `.pricing-bottom`
+- `#pricing .pricing-head`
+- `#pricing .pricing-head h2`
