@@ -27,3 +27,5 @@ Page title: **Multi page**
 - `exampleInputEmail1`
 - `exampleFormControlTextarea1`
 - `map`
+- `testimonials`
+- `carouselExampleDark`
