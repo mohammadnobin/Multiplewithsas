@@ -56,3 +56,5 @@ Source: `sass/style.css` (951 lines)
 - `#pricing .pricing-bottom`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-title`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .defren-bg`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-subtitle`
