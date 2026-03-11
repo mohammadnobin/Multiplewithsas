@@ -23,3 +23,5 @@ Page title: **Multi page**
 - `navbarText`
 - `about-banner`
 - `contact-us`
+- `exampleInputText`
+- `exampleInputEmail1`
