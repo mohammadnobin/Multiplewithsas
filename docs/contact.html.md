@@ -29,3 +29,5 @@ Page title: **Multi page**
 - `map`
 - `testimonials`
 - `carouselExampleDark`
+- `fotter`
+
