@@ -21,3 +21,5 @@ Page title: **Multi page**
 
 - `navber`
 - `navbarText`
+- `about-banner`
+- `contact-us`
