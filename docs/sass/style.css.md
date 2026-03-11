@@ -54,3 +54,5 @@ Source: `sass/style.css` (951 lines)
 - `#pricing .pricing-head h2`
 - `#pricing .pricing-head p`
 - `#pricing .pricing-bottom`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-title`
