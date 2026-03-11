@@ -25,3 +25,5 @@ Page title: **Multi page**
 - `contact-us`
 - `exampleInputText`
 - `exampleInputEmail1`
+- `exampleFormControlTextarea1`
+- `map`
