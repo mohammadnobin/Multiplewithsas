@@ -62,3 +62,5 @@ Source: `sass/style.css` (951 lines)
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-subtitle span`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-text`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .dev`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item i`
