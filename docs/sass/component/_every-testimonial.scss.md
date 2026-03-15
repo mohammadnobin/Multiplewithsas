@@ -8,3 +8,5 @@ Source: `sass/component/_every-testimonial.scss` (64 lines)
 - `.testimonials`
 - `.testimonial-buttom`
 - `.carousel-indicators`
+- `.carousel-indicators [data-bs-target]`
+- `&.active`
