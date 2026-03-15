@@ -6,3 +6,5 @@ Source: `sass/component/_every-testimonial.scss` (64 lines)
 
 - `#testimonials`
 - `.testimonials`
+- `.testimonial-buttom`
+- `.carousel-indicators`
