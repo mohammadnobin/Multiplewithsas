@@ -8,3 +8,5 @@ Source: `sass/component/_features.scss` (30 lines)
 - `.features`
 - `.features-bottom`
 - `.features-item`
+- `.card`
+- `.card-title`
