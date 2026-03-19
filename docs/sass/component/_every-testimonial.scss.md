@@ -10,3 +10,5 @@ Source: `sass/component/_every-testimonial.scss` (64 lines)
 - `.carousel-indicators`
 - `.carousel-indicators [data-bs-target]`
 - `&.active`
+- `&:focus`
+- `.testimonial-item`
