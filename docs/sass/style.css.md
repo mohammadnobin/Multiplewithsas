@@ -66,3 +66,5 @@ Source: `sass/style.css` (951 lines)
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item i`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other:hover`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary:hover`
