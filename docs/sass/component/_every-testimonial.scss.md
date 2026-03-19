@@ -12,3 +12,5 @@ Source: `sass/component/_every-testimonial.scss` (64 lines)
 - `&.active`
 - `&:focus`
 - `.testimonial-item`
+- `i`
+- `p`
