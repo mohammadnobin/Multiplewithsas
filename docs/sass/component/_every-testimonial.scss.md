@@ -14,3 +14,6 @@ Source: `sass/component/_every-testimonial.scss` (64 lines)
 - `.testimonial-item`
 - `i`
 - `p`
+- `h4`
+- `h6`
+
