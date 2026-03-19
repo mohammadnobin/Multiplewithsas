@@ -6,3 +6,5 @@ Source: `sass/component/_features.scss` (30 lines)
 
 - `#features`
 - `.features`
+- `.features-bottom`
+- `.features-item`
