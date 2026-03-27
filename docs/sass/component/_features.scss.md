@@ -10,3 +10,5 @@ Source: `sass/component/_features.scss` (30 lines)
 - `.features-item`
 - `.card`
 - `.card-title`
+- `.card-text`
+

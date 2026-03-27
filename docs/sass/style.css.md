@@ -68,3 +68,13 @@ Source: `sass/style.css` (951 lines)
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other:hover`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary:hover`
+- `#features`
+- `#features .features .features-bottom .features-item .card`
+- `#features .features .features-bottom .features-item .card .card-title`
+- `#features .features .features-bottom .features-item .card .card-text`
+- `#fotter`
+- `#fotter .fotter .fotter-item .fotter-heading h2`
+- `#fotter .fotter .fotter-item .fotter-write p`
+- `#fotter .fotter .fotter-item .fotter-list li`
+- `#fotter .fotter .fotter-item .fotter-list li a`
+- `#fotter .fotter .fotter-item .fotter-list li h6`
