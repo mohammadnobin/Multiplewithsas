@@ -6,3 +6,5 @@ Source: `sass/component/_contact.scss` (125 lines)
 
 - `#contact-us`
 - `.contact-us`
+- `.contact-left`
+- `.form-control`
