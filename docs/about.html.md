@@ -23,3 +23,5 @@ Page title: **Multi page**
 - `navbarText`
 - `about-banner`
 - `about-us`
+- `pills-tab`
+- `pills-home-tab`
