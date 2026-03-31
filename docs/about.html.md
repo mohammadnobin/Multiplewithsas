@@ -17,3 +17,7 @@ Page title: **Multi page**
 
 - `nav.navbar`
 
+## Element ids
+
+- `navber`
+- `navbarText`
