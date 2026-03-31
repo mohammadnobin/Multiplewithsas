@@ -10,3 +10,5 @@ Source: `sass/component/_contact.scss` (125 lines)
 - `.form-control`
 - `&:focus`
 - `.form-button`
+- `&:hover`
+- `.contact-right`
