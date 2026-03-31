@@ -12,3 +12,5 @@ Source: `sass/component/_contact.scss` (125 lines)
 - `.form-button`
 - `&:hover`
 - `.contact-right`
+- `.contact-right-hader`
+- `h6`
