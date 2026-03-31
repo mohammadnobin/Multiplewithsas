@@ -8,3 +8,5 @@ Source: `sass/component/_contact.scss` (125 lines)
 - `.contact-us`
 - `.contact-left`
 - `.form-control`
+- `&:focus`
+- `.form-button`
