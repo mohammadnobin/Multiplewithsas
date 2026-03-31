@@ -14,3 +14,5 @@ Source: `sass/component/_contact.scss` (125 lines)
 - `.contact-right`
 - `.contact-right-hader`
 - `h6`
+- `h2`
+- `p`
