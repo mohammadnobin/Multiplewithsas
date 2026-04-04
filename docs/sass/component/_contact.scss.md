@@ -16,3 +16,5 @@ Source: `sass/component/_contact.scss` (125 lines)
 - `h6`
 - `h2`
 - `p`
+- `.contact-right-meddle`
+- `.contact-right-fotter`
