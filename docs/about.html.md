@@ -31,3 +31,5 @@ Page title: **Multi page**
 - `pills-home`
 - `pills-profile`
 - `pills-contact`
+- `pills-disabled`
+- `our-team`
