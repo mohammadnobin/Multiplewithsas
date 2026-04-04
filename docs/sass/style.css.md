@@ -80,3 +80,5 @@ Source: `sass/style.css` (951 lines)
 - `#fotter .fotter .fotter-item .fotter-list li h6`
 - `#fotter .fotter .fotter-item .fotter-list li h6 a`
 - `#fotter .fotter .sub-fotter`
+- `#fotter .fotter .sub-fotter p`
+- `#fotter .fotter .sub-fotter p a`
