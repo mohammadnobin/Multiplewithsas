@@ -27,3 +27,5 @@ Page title: **Multi page**
 - `pills-home-tab`
 - `pills-profile-tab`
 - `pills-contact-tab`
+- `pills-tabContent`
+- `pills-home`
