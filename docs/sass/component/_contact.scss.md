@@ -20,3 +20,5 @@ Source: `sass/component/_contact.scss` (125 lines)
 - `.contact-right-fotter`
 - `ul`
 - `li`
+- `i`
+- `a`
