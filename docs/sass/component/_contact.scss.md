@@ -22,3 +22,6 @@ Source: `sass/component/_contact.scss` (125 lines)
 - `li`
 - `i`
 - `a`
+- `#map`
+- `.map`
+
