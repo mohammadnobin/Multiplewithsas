@@ -84,3 +84,5 @@ Source: `sass/style.css` (951 lines)
 - `#fotter .fotter .sub-fotter p a`
 - `#about-banner`
 - `#about-banner .about-banner h1`
+- `#about-banner .about-banner .for-link p a`
+- `#about-banner .about-banner .for-link p span`
