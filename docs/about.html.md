@@ -33,3 +33,5 @@ Page title: **Multi page**
 - `pills-contact`
 - `pills-disabled`
 - `our-team`
+- `testimonials`
+- `carouselExampleDark`
