@@ -86,3 +86,5 @@ Source: `sass/style.css` (951 lines)
 - `#about-banner .about-banner h1`
 - `#about-banner .about-banner .for-link p a`
 - `#about-banner .about-banner .for-link p span`
+- `#about-us`
+- `#about-us .about-us .about-us-left img`
