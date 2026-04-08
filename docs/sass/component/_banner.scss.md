@@ -6,3 +6,5 @@ Source: `sass/component/_banner.scss` (74 lines)
 
 - `#benner`
 - `.banner`
+- `h1`
+- `.banner-from`
