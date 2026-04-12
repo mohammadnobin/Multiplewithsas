@@ -10,3 +10,5 @@ Source: `sass/component/_banner.scss` (74 lines)
 - `.banner-from`
 - `input`
 - `&::placeholder`
+- `&:focus`
+- `.search`
