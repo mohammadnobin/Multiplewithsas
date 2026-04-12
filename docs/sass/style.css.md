@@ -92,3 +92,5 @@ Source: `sass/style.css` (951 lines)
 - `#about-us .about-us .about-us-right .about-right-top h2`
 - `#about-us .about-us .about-us-right .about-right-top p`
 - `#about-us .about-us .about-right-muddle`
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link`
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link:focus`
