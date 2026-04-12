@@ -8,3 +8,5 @@ Source: `sass/component/_banner.scss` (74 lines)
 - `.banner`
 - `h1`
 - `.banner-from`
+- `input`
+- `&::placeholder`
