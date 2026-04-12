@@ -35,3 +35,5 @@ Page title: **Multi page**
 - `our-team`
 - `testimonials`
 - `carouselExampleDark`
+- `fotter`
+
