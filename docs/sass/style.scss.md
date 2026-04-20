@@ -14,3 +14,5 @@ Source: `sass/style.scss` (13 lines)
 - `../sass/component/every-fotter`
 - `../sass/component/every-header`
 - `../sass/component/about`
+- `../sass/component/our-service`
+- `../sass/component/contact`
