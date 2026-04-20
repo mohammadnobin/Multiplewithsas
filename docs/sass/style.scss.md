@@ -12,3 +12,5 @@ Source: `sass/style.scss` (13 lines)
 - `../sass/component/pricing`
 - `../sass/component/features`
 - `../sass/component/every-fotter`
+- `../sass/component/every-header`
+- `../sass/component/about`
