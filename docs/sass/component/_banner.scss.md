@@ -12,3 +12,5 @@ Source: `sass/component/_banner.scss` (74 lines)
 - `&::placeholder`
 - `&:focus`
 - `.search`
+- `.csckbox`
+

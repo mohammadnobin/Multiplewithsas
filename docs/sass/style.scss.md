@@ -6,3 +6,9 @@ Source: `sass/style.scss` (13 lines)
 
 - `../sass/component/common`
 - `../sass/component/navber`
+- `../sass/component/banner`
+- `../sass/component/trusted`
+- `../sass/component/services`
+- `../sass/component/pricing`
+- `../sass/component/features`
+- `../sass/component/every-fotter`

@@ -94,3 +94,11 @@ Source: `sass/style.css` (951 lines)
 - `#about-us .about-us .about-right-muddle`
 - `#about-us .about-us .about-right-bottom .nav-pills .nav-link`
 - `#about-us .about-us .about-right-bottom .nav-pills .nav-link:focus`
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link.active`
+- `#our-team`
+- `#our-team .our-team .our-team-bottom .team-item`
+- `#our-team .our-team .our-team-bottom .team-item:hover`
+- `#our-team .our-team .our-team-bottom .team-item img`
+- `#our-team .our-team .our-team-bottom .team-item .down-content`
+- `#our-team .our-team .our-team-bottom .team-item .down-content h4`
+- `#our-team .our-team .our-team-bottom .team-item .down-content p`
