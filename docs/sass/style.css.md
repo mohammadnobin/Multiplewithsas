@@ -104,3 +104,5 @@ Source: `sass/style.css` (951 lines)
 - `#our-team .our-team .our-team-bottom .team-item .down-content p`
 - `#our-service`
 - `#our-service .our-service .our-service-hader`
+- `#our-service .our-service .our-service-hader h6`
+- `#our-service .our-service .our-service-hader h2`
