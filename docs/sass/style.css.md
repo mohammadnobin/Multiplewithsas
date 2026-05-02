@@ -106,3 +106,9 @@ Source: `sass/style.css` (951 lines)
 - `#our-service .our-service .our-service-hader`
 - `#our-service .our-service .our-service-hader h6`
 - `#our-service .our-service .our-service-hader h2`
+- `#our-service .our-service .our-service-hader p`
+- `#our-service .our-service .our-service-fotter .service-item .card`
+- `#our-service .our-service .our-service-fotter .service-item .card i`
+- `#our-service .our-service .our-service-fotter .service-item .card .card-title`
+- `#our-service .our-service .our-service-fotter .service-item .card .card-text`
+- `#contact-us`

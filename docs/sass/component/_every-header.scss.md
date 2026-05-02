@@ -10,3 +10,5 @@ Source: `sass/component/_every-header.scss` (31 lines)
 - `.for-link`
 - `p`
 - `a`
+- `span`
+
