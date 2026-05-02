@@ -10,3 +10,5 @@ Source: `sass/component/_services.scss` (70 lines)
 - `h4`
 - `h2`
 - `p`
+- `.service-buttom`
+- `.card`
