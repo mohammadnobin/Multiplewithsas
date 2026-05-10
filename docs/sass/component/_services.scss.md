@@ -12,3 +12,7 @@ Source: `sass/component/_services.scss` (70 lines)
 - `p`
 - `.service-buttom`
 - `.card`
+- `i`
+- `.card-title`
+- `.card-text`
+
