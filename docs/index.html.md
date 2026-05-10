@@ -27,3 +27,5 @@ Page title: **Multi page**
 - `Services`
 - `pricing`
 - `features`
+- `testimonials`
+- `carouselExampleDark`
