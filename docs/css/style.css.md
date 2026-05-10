@@ -6,3 +6,5 @@ Source: `css/style.css` (955 lines)
 
 - `*`
 - `a`
+- `img`
+- `li`
