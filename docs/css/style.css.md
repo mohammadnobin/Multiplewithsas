@@ -10,3 +10,5 @@ Source: `css/style.css` (955 lines)
 - `li`
 - `body`
 - `.section-hader h2`
+- `.section-hader p`
+- `.activa`
