@@ -8,3 +8,5 @@ Source: `css/style.css` (955 lines)
 - `a`
 - `img`
 - `li`
+- `body`
+- `.section-hader h2`
