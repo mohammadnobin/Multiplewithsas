@@ -118,3 +118,5 @@ Source: `sass/style.css` (951 lines)
 - `#contact-us .contact-us .contact-left .form-button:hover`
 - `#contact-us .contact-us .contact-right .contact-right-hader h6`
 - `#contact-us .contact-us .contact-right .contact-right-hader h2`
+- `#contact-us .contact-us .contact-right .contact-right-hader p`
+- `#contact-us .contact-us .contact-right .contact-right-meddle`
