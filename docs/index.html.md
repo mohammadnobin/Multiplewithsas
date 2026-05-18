@@ -29,3 +29,5 @@ Page title: **Multi page**
 - `features`
 - `testimonials`
 - `carouselExampleDark`
+- `fotter`
+
