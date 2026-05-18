@@ -14,3 +14,5 @@ Source: `css/style.css` (955 lines)
 - `.activa`
 - `.navbar-nav .nav-link.active, .navbar-nav .nav-link.show`
 - `.nav-link:focus, .nav-link:hover`
+- `.navbar`
+- `.navbar li`
