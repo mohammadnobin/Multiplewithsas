@@ -6,3 +6,5 @@ Source: `sass/component/_our-service.scss` (71 lines)
 
 - `#our-service`
 - `.our-service`
+- `.our-service-hader`
+- `h6`
