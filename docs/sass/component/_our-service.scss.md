@@ -8,3 +8,5 @@ Source: `sass/component/_our-service.scss` (71 lines)
 - `.our-service`
 - `.our-service-hader`
 - `h6`
+- `h2`
+- `p`
