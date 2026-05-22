@@ -18,3 +18,5 @@ Source: `css/style.css` (955 lines)
 - `.navbar li`
 - `.navbar li a`
 - `.navbar li a:hover`
+- `.navbar .nav-logo`
+- `.navbar .nav-logo span`
