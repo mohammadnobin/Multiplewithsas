@@ -122,3 +122,5 @@ Source: `sass/style.css` (951 lines)
 - `#contact-us .contact-us .contact-right .contact-right-meddle`
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul`
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul li`
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li i`
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li i a`
