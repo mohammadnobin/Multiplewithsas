@@ -20,3 +20,5 @@ Source: `css/style.css` (955 lines)
 - `.navbar li a:hover`
 - `.navbar .nav-logo`
 - `.navbar .nav-logo span`
+- `.navbar .nav-botton`
+- `.navbar .nav-botton:focus`
