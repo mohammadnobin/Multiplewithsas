@@ -12,3 +12,5 @@ Source: `sass/component/_our-service.scss` (71 lines)
 - `p`
 - `.our-service-fotter`
 - `.service-item`
+- `.card`
+- `i`
