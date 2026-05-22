@@ -16,3 +16,5 @@ Source: `css/style.css` (955 lines)
 - `.nav-link:focus, .nav-link:hover`
 - `.navbar`
 - `.navbar li`
+- `.navbar li a`
+- `.navbar li a:hover`
