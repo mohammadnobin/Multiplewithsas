@@ -10,3 +10,5 @@ Source: `sass/component/_our-service.scss` (71 lines)
 - `h6`
 - `h2`
 - `p`
+- `.our-service-fotter`
+- `.service-item`
