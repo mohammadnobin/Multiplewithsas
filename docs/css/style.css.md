@@ -22,3 +22,5 @@ Source: `css/style.css` (955 lines)
 - `.navbar .nav-logo span`
 - `.navbar .nav-botton`
 - `.navbar .nav-botton:focus`
+- `.navbar .nav-botton .nav-icon`
+- `.navbar .log-in`
