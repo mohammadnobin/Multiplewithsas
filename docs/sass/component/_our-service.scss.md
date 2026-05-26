@@ -14,3 +14,6 @@ Source: `sass/component/_our-service.scss` (71 lines)
 - `.service-item`
 - `.card`
 - `i`
+- `.card-title`
+- `.card-text`
+
