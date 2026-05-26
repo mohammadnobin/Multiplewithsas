@@ -24,3 +24,5 @@ Source: `css/style.css` (955 lines)
 - `.navbar .nav-botton:focus`
 - `.navbar .nav-botton .nav-icon`
 - `.navbar .log-in`
+- `.navbar .log-in:hover`
+- `.navbar .sing-up`
