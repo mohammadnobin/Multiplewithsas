@@ -26,3 +26,5 @@ Source: `css/style.css` (955 lines)
 - `.navbar .log-in`
 - `.navbar .log-in:hover`
 - `.navbar .sing-up`
+- `.navbar .sing-up:hover`
+- `.scroll-color`
