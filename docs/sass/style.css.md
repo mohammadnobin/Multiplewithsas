@@ -126,3 +126,5 @@ Source: `sass/style.css` (951 lines)
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul li i a`
 - `#map`
 - `#testimonials`
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators`
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]`
