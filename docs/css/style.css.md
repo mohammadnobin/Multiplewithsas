@@ -34,3 +34,5 @@ Source: `css/style.css` (955 lines)
 - `#benner .banner .banner-from input`
 - `#benner .banner .banner-from input::-moz-placeholder`
 - `#benner .banner .banner-from input::placeholder`
+- `#benner .banner .banner-from input:focus`
+- `#benner .banner .banner-from .search`
