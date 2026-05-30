@@ -128,3 +128,5 @@ Source: `sass/style.css` (951 lines)
 - `#testimonials`
 - `#testimonials .testimonials .testimonial-buttom .carousel-indicators`
 - `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]`
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target].active`
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]:focus`
