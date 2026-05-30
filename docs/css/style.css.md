@@ -38,3 +38,5 @@ Source: `css/style.css` (955 lines)
 - `#benner .banner .banner-from .search`
 - `#benner .banner .csckbox`
 - `#benner .banner .csckbox input`
+- `#Trusted`
+- `#Trusted .trusted h4`
