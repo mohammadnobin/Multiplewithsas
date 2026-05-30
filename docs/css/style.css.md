@@ -30,3 +30,5 @@ Source: `css/style.css` (955 lines)
 - `.scroll-color`
 - `.scroll-color a`
 - `#benner`
+- `#benner .banner h1`
+- `#benner .banner .banner-from input`
