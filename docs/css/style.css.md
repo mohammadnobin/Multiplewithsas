@@ -40,3 +40,5 @@ Source: `css/style.css` (955 lines)
 - `#benner .banner .csckbox input`
 - `#Trusted`
 - `#Trusted .trusted h4`
+- `#Services`
+- `#Services .service .service-top`
