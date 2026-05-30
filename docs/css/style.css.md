@@ -32,3 +32,5 @@ Source: `css/style.css` (955 lines)
 - `#benner`
 - `#benner .banner h1`
 - `#benner .banner .banner-from input`
+- `#benner .banner .banner-from input::-moz-placeholder`
+- `#benner .banner .banner-from input::placeholder`
