@@ -36,3 +36,5 @@ Source: `css/style.css` (955 lines)
 - `#benner .banner .banner-from input::placeholder`
 - `#benner .banner .banner-from input:focus`
 - `#benner .banner .banner-from .search`
+- `#benner .banner .csckbox`
+- `#benner .banner .csckbox input`
