@@ -28,3 +28,5 @@ Source: `css/style.css` (955 lines)
 - `.navbar .sing-up`
 - `.navbar .sing-up:hover`
 - `.scroll-color`
+- `.scroll-color a`
+- `#benner`
