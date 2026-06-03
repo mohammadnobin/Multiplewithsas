@@ -50,3 +50,5 @@ Source: `css/style.css` (955 lines)
 - `#Services .service-buttom .card .card-title`
 - `#Services .service-buttom .card .card-text`
 - `#pricing`
+- `.pricing-bottom`
+- `#pricing .pricing-head`
