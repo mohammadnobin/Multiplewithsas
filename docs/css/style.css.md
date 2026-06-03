@@ -44,3 +44,5 @@ Source: `css/style.css` (955 lines)
 - `#Services .service .service-top`
 - `#Services .service .service-top h4`
 - `#Services .service .service-top h2`
+- `#Services .service .service-top p`
+- `#Services .service-buttom .card`
