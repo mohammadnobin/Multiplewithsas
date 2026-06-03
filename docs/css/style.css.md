@@ -42,3 +42,5 @@ Source: `css/style.css` (955 lines)
 - `#Trusted .trusted h4`
 - `#Services`
 - `#Services .service .service-top`
+- `#Services .service .service-top h4`
+- `#Services .service .service-top h2`
