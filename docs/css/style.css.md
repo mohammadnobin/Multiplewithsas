@@ -56,3 +56,5 @@ Source: `css/style.css` (955 lines)
 - `#pricing .pricing-head p`
 - `#pricing .pricing-bottom`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-title`
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .defren-bg`
