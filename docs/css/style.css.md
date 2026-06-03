@@ -52,3 +52,5 @@ Source: `css/style.css` (955 lines)
 - `#pricing`
 - `.pricing-bottom`
 - `#pricing .pricing-head`
+- `#pricing .pricing-head h2`
+- `#pricing .pricing-head p`
