@@ -46,3 +46,5 @@ Source: `css/style.css` (955 lines)
 - `#Services .service .service-top h2`
 - `#Services .service .service-top p`
 - `#Services .service-buttom .card`
+- `#Services .service-buttom .card i`
+- `#Services .service-buttom .card .card-title`
