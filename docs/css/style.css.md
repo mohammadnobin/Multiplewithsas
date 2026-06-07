@@ -74,3 +74,5 @@ Source: `css/style.css` (955 lines)
 - `#features .features .features-bottom .features-item .card .card-title`
 - `#features .features .features-bottom .features-item .card .card-text`
 - `#fotter`
+- `#fotter .fotter .fotter-item .fotter-heading h2`
+- `#fotter .fotter .fotter-item .fotter-write p`
