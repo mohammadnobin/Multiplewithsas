@@ -70,3 +70,5 @@ Source: `css/style.css` (955 lines)
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary`
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary:hover`
 - `#features`
+- `#features .features .features-bottom .features-item .card`
+- `#features .features .features-bottom .features-item .card .card-title`
