@@ -72,3 +72,5 @@ Source: `css/style.css` (955 lines)
 - `#features`
 - `#features .features .features-bottom .features-item .card`
 - `#features .features .features-bottom .features-item .card .card-title`
+- `#features .features .features-bottom .features-item .card .card-text`
+- `#fotter`
