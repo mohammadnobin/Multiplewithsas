@@ -78,3 +78,5 @@ Source: `css/style.css` (955 lines)
 - `#fotter .fotter .fotter-item .fotter-write p`
 - `#fotter .fotter .fotter-item .fotter-list li`
 - `#fotter .fotter .fotter-item .fotter-list li a`
+- `#fotter .fotter .fotter-item .fotter-list li h6`
+- `#fotter .fotter .fotter-item .fotter-list li h6 a`
