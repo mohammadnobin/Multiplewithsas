@@ -88,3 +88,5 @@ Source: `css/style.css` (955 lines)
 - `#about-banner .about-banner .for-link p a`
 - `#about-banner .about-banner .for-link p span`
 - `#about-us`
+- `#about-us .about-us .about-us-left img`
+- `#about-us .about-us .about-us-right .about-right-top h5`
