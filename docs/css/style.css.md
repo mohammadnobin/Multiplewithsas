@@ -90,3 +90,5 @@ Source: `css/style.css` (955 lines)
 - `#about-us`
 - `#about-us .about-us .about-us-left img`
 - `#about-us .about-us .about-us-right .about-right-top h5`
+- `#about-us .about-us .about-us-right .about-right-top h2`
+- `#about-us .about-us .about-us-right .about-right-top p`
