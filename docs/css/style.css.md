@@ -84,3 +84,5 @@ Source: `css/style.css` (955 lines)
 - `#fotter .fotter .sub-fotter p`
 - `#fotter .fotter .sub-fotter p a`
 - `#about-banner`
+- `#about-banner .about-banner h1`
+- `#about-banner .about-banner .for-link p a`
