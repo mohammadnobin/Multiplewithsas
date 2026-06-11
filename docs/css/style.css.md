@@ -82,3 +82,5 @@ Source: `css/style.css` (955 lines)
 - `#fotter .fotter .fotter-item .fotter-list li h6 a`
 - `#fotter .fotter .sub-fotter`
 - `#fotter .fotter .sub-fotter p`
+- `#fotter .fotter .sub-fotter p a`
+- `#about-banner`
