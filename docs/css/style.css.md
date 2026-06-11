@@ -94,3 +94,5 @@ Source: `css/style.css` (955 lines)
 - `#about-us .about-us .about-us-right .about-right-top p`
 - `#about-us .about-us .about-right-muddle`
 - `#about-us .about-us .about-right-bottom .nav-pills .nav-link`
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link:focus`
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link.active`
