@@ -106,3 +106,5 @@ Source: `css/style.css` (955 lines)
 - `#our-service`
 - `#our-service .our-service .our-service-hader`
 - `#our-service .our-service .our-service-hader h6`
+- `#our-service .our-service .our-service-hader h2`
+- `#our-service .our-service .our-service-hader p`
