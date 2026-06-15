@@ -100,3 +100,5 @@ Source: `css/style.css` (955 lines)
 - `#our-team .our-team .our-team-bottom .team-item`
 - `#our-team .our-team .our-team-bottom .team-item:hover`
 - `#our-team .our-team .our-team-bottom .team-item img`
+- `#our-team .our-team .our-team-bottom .team-item .down-content`
+- `#our-team .our-team .our-team-bottom .team-item .down-content h4`
