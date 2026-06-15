@@ -114,3 +114,5 @@ Source: `css/style.css` (955 lines)
 - `#our-service .our-service .our-service-fotter .service-item .card .card-text`
 - `#contact-us`
 - `#contact-us .contact-us .contact-left .form-control`
+- `#contact-us .contact-us .contact-left .form-control:focus`
+- `#contact-us .contact-us .contact-left .form-button`
