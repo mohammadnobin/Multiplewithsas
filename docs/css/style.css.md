@@ -96,3 +96,5 @@ Source: `css/style.css` (955 lines)
 - `#about-us .about-us .about-right-bottom .nav-pills .nav-link`
 - `#about-us .about-us .about-right-bottom .nav-pills .nav-link:focus`
 - `#about-us .about-us .about-right-bottom .nav-pills .nav-link.active`
+- `#our-team`
+- `#our-team .our-team .our-team-bottom .team-item`
