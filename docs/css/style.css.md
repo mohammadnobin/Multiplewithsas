@@ -102,3 +102,5 @@ Source: `css/style.css` (955 lines)
 - `#our-team .our-team .our-team-bottom .team-item img`
 - `#our-team .our-team .our-team-bottom .team-item .down-content`
 - `#our-team .our-team .our-team-bottom .team-item .down-content h4`
+- `#our-team .our-team .our-team-bottom .team-item .down-content p`
+- `#our-service`
