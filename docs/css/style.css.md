@@ -116,3 +116,5 @@ Source: `css/style.css` (955 lines)
 - `#contact-us .contact-us .contact-left .form-control`
 - `#contact-us .contact-us .contact-left .form-control:focus`
 - `#contact-us .contact-us .contact-left .form-button`
+- `#contact-us .contact-us .contact-left .form-button:hover`
+- `#contact-us .contact-us .contact-right .contact-right-hader h6`
