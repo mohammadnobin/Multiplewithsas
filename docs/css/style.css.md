@@ -124,3 +124,5 @@ Source: `css/style.css` (955 lines)
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul`
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul li`
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul li i`
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li i a`
+- `#map`
