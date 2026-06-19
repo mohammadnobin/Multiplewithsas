@@ -128,3 +128,5 @@ Source: `css/style.css` (955 lines)
 - `#map`
 - `#testimonials`
 - `#testimonials .testimonials .testimonial-buttom .carousel-indicators`
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]`
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target].active`
