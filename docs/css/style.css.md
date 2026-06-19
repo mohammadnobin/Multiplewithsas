@@ -122,3 +122,5 @@ Source: `css/style.css` (955 lines)
 - `#contact-us .contact-us .contact-right .contact-right-hader p`
 - `#contact-us .contact-us .contact-right .contact-right-meddle`
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul`
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li`
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li i`
