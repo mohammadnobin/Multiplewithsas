@@ -130,3 +130,5 @@ Source: `css/style.css` (955 lines)
 - `#testimonials .testimonials .testimonial-buttom .carousel-indicators`
 - `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]`
 - `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target].active`
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]:focus`
+- `#testimonials .testimonials .testimonial-buttom .testimonial-item i`
