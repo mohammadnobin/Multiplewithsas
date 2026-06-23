@@ -134,3 +134,5 @@ Source: `css/style.css` (955 lines)
 - `#testimonials .testimonials .testimonial-buttom .testimonial-item i`
 - `#testimonials .testimonials .testimonial-buttom .testimonial-item p`
 - `#testimonials .testimonials .testimonial-buttom .testimonial-item h4`
+- `#testimonials .testimonials .testimonial-buttom .testimonial-item h6`
+
