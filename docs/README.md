@@ -22,3 +22,5 @@ One page per source file.
 - [sass/component/_services.scss](sass/component/_services.scss.md)
 - [sass/component/_trusted.scss](sass/component/_trusted.scss.md)
 - [sass/style.css](sass/style.css.md)
+- [sass/style.scss](sass/style.scss.md)
+- [services.html](services.html.md)
