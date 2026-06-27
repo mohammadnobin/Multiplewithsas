@@ -14,3 +14,7 @@ One page per source file.
 - [sass/component/_contact.scss](sass/component/_contact.scss.md)
 - [sass/component/_every-fotter.scss](sass/component/_every-fotter.scss.md)
 - [sass/component/_every-header.scss](sass/component/_every-header.scss.md)
+- [sass/component/_every-testimonial.scss](sass/component/_every-testimonial.scss.md)
+- [sass/component/_features.scss](sass/component/_features.scss.md)
+- [sass/component/_navber.scss](sass/component/_navber.scss.md)
+- [sass/component/_our-service.scss](sass/component/_our-service.scss.md)
