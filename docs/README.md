@@ -18,3 +18,7 @@ One page per source file.
 - [sass/component/_features.scss](sass/component/_features.scss.md)
 - [sass/component/_navber.scss](sass/component/_navber.scss.md)
 - [sass/component/_our-service.scss](sass/component/_our-service.scss.md)
+- [sass/component/_pricing.scss](sass/component/_pricing.scss.md)
+- [sass/component/_services.scss](sass/component/_services.scss.md)
+- [sass/component/_trusted.scss](sass/component/_trusted.scss.md)
+- [sass/style.css](sass/style.css.md)
