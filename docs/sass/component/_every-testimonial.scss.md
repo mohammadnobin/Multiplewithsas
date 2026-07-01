@@ -21,3 +21,7 @@ Source: `sass/component/_every-testimonial.scss` (64 lines)
 
 - `#testimonials` - line 1
 
+## Imported by
+
+- `sass/style.scss`
+
