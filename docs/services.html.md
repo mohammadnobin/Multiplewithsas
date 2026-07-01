@@ -37,3 +37,9 @@ Page title: **Multi page**
 - `<h2>` Best Services We Provide - line 66
 - `<section>` - line 151
 - `<h2>` What they say about us - line 156
+- `<section>` - line 207
+- `<h2>` About Us - line 214
+- `<h2>` Hosting Plans - line 224
+- `<h2>` Useful Links - line 238
+- `<h2>` More Information - line 252
+
