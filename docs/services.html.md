@@ -27,3 +27,13 @@ Page title: **Multi page**
 - `carouselExampleDark`
 - `fotter`
 
+## Outline
+
+- `<section>` - line 16
+- `<nav>` - line 17
+- `<section>` - line 46
+- `<h1>` Our Services - line 49
+- `<section>` - line 61
+- `<h2>` Best Services We Provide - line 66
+- `<section>` - line 151
+- `<h2>` What they say about us - line 156
