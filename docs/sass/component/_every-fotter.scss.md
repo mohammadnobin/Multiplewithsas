@@ -17,3 +17,11 @@ Source: `sass/component/_every-fotter.scss` (67 lines)
 - `h6`
 - `.sub-fotter`
 
+## Outline
+
+- `#fotter` - line 1
+
+## Imported by
+
+- `sass/style.scss`
+
