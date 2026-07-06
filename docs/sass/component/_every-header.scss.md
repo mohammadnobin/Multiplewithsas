@@ -12,3 +12,7 @@ Source: `sass/component/_every-header.scss` (31 lines)
 - `a`
 - `span`
 
+## Outline
+
+- `#about-banner` - line 1
+
