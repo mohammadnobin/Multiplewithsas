@@ -16,3 +16,7 @@ Source: `sass/component/_every-header.scss` (31 lines)
 
 - `#about-banner` - line 1
 
+## Imported by
+
+- `sass/style.scss`
+
