@@ -18,3 +18,7 @@ Source: `sass/style.scss` (13 lines)
 - `../sass/component/contact`
 - `../sass/component/every-testimonial`
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
