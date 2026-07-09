@@ -34,3 +34,20 @@ Source: `sass/component/_contact.scss` (125 lines)
 
 - `sass/style.scss`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 125 | 1 | 1 | 123 |
+
+## Related files
+
+- `sass/component/_about.scss`
+- `sass/component/_banner.scss`
+- `sass/component/_common.scss`
+- `sass/component/_every-fotter.scss`
+- `sass/component/_every-header.scss`
+- `sass/component/_every-testimonial.scss`
+- `sass/component/_features.scss`
+- `sass/component/_navber.scss`
+
