@@ -47,3 +47,15 @@ Page title: **Multi page**
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 276 | 6 | 14 | 256 |
+
+## Related files
+
+- `about.html`
+- `contact.html`
+- `index.html`
+
