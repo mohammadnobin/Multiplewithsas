@@ -13,3 +13,13 @@ Source: `js/app.js` (20 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 20 | 0 | 3 | 17 |
+
+## Related files
+
+No other source files in this folder.
+
