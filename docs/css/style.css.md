@@ -276,3 +276,13 @@ Source: `css/style.css` (955 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 955 | 24 | 1 | 930 |
+
+## Related files
+
+- `css/testimonial.css`
+
