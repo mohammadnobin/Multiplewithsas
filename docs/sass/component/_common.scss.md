@@ -28,3 +28,7 @@ Source: `sass/component/_common.scss` (60 lines)
 - `.navbar-nav .nav-link.active, .navbar-nav .nav-link.show` - line 53
 - `.nav-link:focus, .nav-link:hover` - line 56
 
+## Imported by
+
+- `sass/style.scss`
+
