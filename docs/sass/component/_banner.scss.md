@@ -14,3 +14,7 @@ Source: `sass/component/_banner.scss` (74 lines)
 - `.search`
 - `.csckbox`
 
+## Outline
+
+- `#benner` - line 1
+
