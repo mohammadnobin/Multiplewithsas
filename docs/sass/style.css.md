@@ -135,3 +135,13 @@ Source: `sass/style.css` (951 lines)
 - `#testimonials .testimonials .testimonial-buttom .testimonial-item h4`
 - `#testimonials .testimonials .testimonial-buttom .testimonial-item h6`
 
+## Outline
+
+- `*` - line 1
+- `a` - line 8
+- `img` - line 14
+- `li` - line 18
+- `body` - line 22
+- `.section-hader h2` - line 27
+- `.section-hader p` - line 38
+- `.activa` - line 47
