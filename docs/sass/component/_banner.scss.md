@@ -18,3 +18,7 @@ Source: `sass/component/_banner.scss` (74 lines)
 
 - `#benner` - line 1
 
+## Imported by
+
+- `sass/style.scss`
+
