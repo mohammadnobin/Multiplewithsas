@@ -12,3 +12,11 @@ Source: `sass/component/_features.scss` (30 lines)
 - `.card-title`
 - `.card-text`
 
+## Outline
+
+- `#features` - line 1
+
+## Imported by
+
+- `sass/style.scss`
+
