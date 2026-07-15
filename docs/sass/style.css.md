@@ -161,3 +161,11 @@ Source: `sass/style.css` (951 lines)
 - `.navbar .sing-up` - line 141
 - `.navbar .sing-up:hover` - line 159
 - `.scroll-color` - line 164
+- `#benner` - line 168
+- `#benner .banner h1` - line 176
+- `#benner .banner .banner-from input` - line 185
+- `#benner .banner .banner-from input::-moz-placeholder` - line 201
+- `#benner .banner .banner-from input::placeholder` - line 205
+- `#benner .banner .banner-from input:focus` - line 209
+- `#benner .banner .banner-from .search` - line 212
+- `#benner .banner .csckbox` - line 227
