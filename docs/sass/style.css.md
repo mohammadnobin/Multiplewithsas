@@ -177,3 +177,11 @@ Source: `sass/style.css` (951 lines)
 - `#Services .service .service-top h4` - line 262
 - `#Services .service .service-top h2` - line 270
 - `#Services .service .service-top p` - line 278
+- `#Services .service-buttom .card` - line 284
+- `#Services .service-buttom .card i` - line 293
+- `#Services .service-buttom .card .card-title` - line 305
+- `#Services .service-buttom .card .card-text` - line 314
+- `@media (max-width: 576px)` - line 321
+- `@media (min-width: 576px) and (max-width: 767px)` - line 329
+- `@media (min-width: 767px) and (max-width: 991.98px)` - line 338
+- `#pricing` - line 346
