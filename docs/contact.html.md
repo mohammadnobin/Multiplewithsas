@@ -41,3 +41,10 @@ Page title: **Multi page**
 - `<h2>` Let's keep in touch - line 84
 - `<section>` - line 108
 - `<section>` - line 121
+- `<h2>` What they say about us - line 126
+- `<section>` - line 177
+- `<h2>` About Us - line 184
+- `<h2>` Hosting Plans - line 194
+- `<h2>` Useful Links - line 208
+- `<h2>` More Information - line 222
+
