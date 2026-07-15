@@ -17,3 +17,8 @@ Source: `sass/component/_navber.scss` (102 lines)
 - `.sing-up`
 - `.scroll-color`
 
+## Outline
+
+- `.navbar` - line 1
+- `.scroll-color` - line 98
+
