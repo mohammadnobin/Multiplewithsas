@@ -47,3 +47,11 @@ Page title: **Multi page**
 - `<h2>` - line 70
 - `<section>` - line 108
 - `<h2>` Meet the greatest people - line 113
+- `<section>` - line 156
+- `<h2>` What they say about us - line 161
+- `<section>` - line 212
+- `<h2>` About Us - line 219
+- `<h2>` Hosting Plans - line 229
+- `<h2>` Useful Links - line 243
+- `<h2>` More Information - line 257
+
