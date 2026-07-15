@@ -169,3 +169,11 @@ Source: `sass/style.css` (951 lines)
 - `#benner .banner .banner-from input:focus` - line 209
 - `#benner .banner .banner-from .search` - line 212
 - `#benner .banner .csckbox` - line 227
+- `#benner .banner .csckbox input` - line 233
+- `#Trusted` - line 243
+- `#Trusted .trusted h4` - line 248
+- `#Services` - line 256
+- `#Services .service .service-top` - line 259
+- `#Services .service .service-top h4` - line 262
+- `#Services .service .service-top h2` - line 270
+- `#Services .service .service-top p` - line 278
