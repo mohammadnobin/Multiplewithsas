@@ -26,3 +26,8 @@ Source: `sass/component/_about.scss` (106 lines)
 - `.down-content`
 - `h4`
 
+## Outline
+
+- `#about-us` - line 1
+- `#our-team` - line 66
+
