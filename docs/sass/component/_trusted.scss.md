@@ -12,3 +12,7 @@ Source: `sass/component/_trusted.scss` (14 lines)
 
 - `#Trusted` - line 1
 
+## Imported by
+
+- `sass/style.scss`
+
