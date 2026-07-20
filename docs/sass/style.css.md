@@ -193,3 +193,11 @@ Source: `sass/style.css` (951 lines)
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-title` - line 394
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .defren-bg` - line 402
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-subtitle` - line 405
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-subtitle h6` - line 411
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-subtitle span` - line 419
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-text` - line 426
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .dev` - line 432
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item` - line 438
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item i` - line 445
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other` - line 451
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other:hover` - line 480
