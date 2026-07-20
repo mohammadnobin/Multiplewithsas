@@ -185,3 +185,11 @@ Source: `sass/style.css` (951 lines)
 - `@media (min-width: 576px) and (max-width: 767px)` - line 329
 - `@media (min-width: 767px) and (max-width: 991.98px)` - line 338
 - `#pricing` - line 346
+- `#pricing .pricing-head` - line 356
+- `#pricing .pricing-head h2` - line 361
+- `#pricing .pricing-head p` - line 369
+- `#pricing .pricing-bottom` - line 374
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2` - line 380
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-title` - line 394
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .defren-bg` - line 402
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-subtitle` - line 405
