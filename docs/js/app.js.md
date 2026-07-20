@@ -9,3 +9,7 @@ Source: `js/app.js` (20 lines)
 - `navber` (let) - line 11
 - `navLink` (let) - line 12
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
