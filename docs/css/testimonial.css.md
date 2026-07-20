@@ -7,3 +7,8 @@ Source: `css/testimonial.css` (8 lines)
 - `#testimonials`
 - `#testimonials .testimonials`
 
+## Outline
+
+- `#testimonials` - line 1
+- `#testimonials .testimonials` - line 6
+
