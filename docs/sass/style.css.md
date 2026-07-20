@@ -201,3 +201,11 @@ Source: `sass/style.css` (951 lines)
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item i` - line 445
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other` - line 451
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other:hover` - line 480
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary` - line 484
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary:hover` - line 512
+- `#features` - line 516
+- `#features .features .features-bottom .features-item .card` - line 520
+- `#features .features .features-bottom .features-item .card .card-title` - line 527
+- `#features .features .features-bottom .features-item .card .card-text` - line 533
+- `#fotter` - line 540
+- `#fotter .fotter .fotter-item .fotter-heading h2` - line 547
