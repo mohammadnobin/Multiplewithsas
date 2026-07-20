@@ -8,3 +8,7 @@ Source: `sass/component/_trusted.scss` (14 lines)
 - `.trusted`
 - `h4`
 
+## Outline
+
+- `#Trusted` - line 1
+
