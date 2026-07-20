@@ -31,3 +31,7 @@ Source: `sass/component/_about.scss` (106 lines)
 - `#about-us` - line 1
 - `#our-team` - line 66
 
+## Imported by
+
+- `sass/style.scss`
+
