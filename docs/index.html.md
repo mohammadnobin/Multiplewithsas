@@ -31,3 +31,13 @@ Page title: **Multi page**
 - `carouselExampleDark`
 - `fotter`
 
+## Outline
+
+- `<section>` - line 16
+- `<nav>` - line 17
+- `<section>` - line 46
+- `<h1>` SEARCH YOUR DOMAIN - line 49
+- `<section>` - line 71
+- `<section>` - line 86
+- `<h2>` Services we provide - line 91
+- `<section>` - line 130
