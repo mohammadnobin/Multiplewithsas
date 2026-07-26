@@ -233,3 +233,11 @@ Source: `sass/style.css` (951 lines)
 - `#our-team` - line 679
 - `#our-team .our-team .our-team-bottom .team-item` - line 682
 - `#our-team .our-team .our-team-bottom .team-item:hover` - line 691
+- `#our-team .our-team .our-team-bottom .team-item img` - line 694
+- `#our-team .our-team .our-team-bottom .team-item .down-content` - line 697
+- `#our-team .our-team .our-team-bottom .team-item .down-content h4` - line 703
+- `#our-team .our-team .our-team-bottom .team-item .down-content p` - line 710
+- `#our-service` - line 717
+- `#our-service .our-service .our-service-hader` - line 720
+- `#our-service .our-service .our-service-hader h6` - line 723
+- `#our-service .our-service .our-service-hader h2` - line 731
