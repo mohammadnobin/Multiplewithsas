@@ -41,3 +41,11 @@ Page title: **Multi page**
 - `<section>` - line 86
 - `<h2>` Services we provide - line 91
 - `<section>` - line 130
+- `<h2>` Cloud Hosting Plans - line 134
+- `<section>` - line 213
+- `<h2>` Cloud Features - line 218
+- `<section>` - line 325
+- `<h2>` What they say about us - line 330
+- `<section>` - line 381
+- `<h2>` About Us - line 388
+- `<h2>` Hosting Plans - line 398
