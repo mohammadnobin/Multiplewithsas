@@ -209,3 +209,11 @@ Source: `sass/style.css` (951 lines)
 - `#features .features .features-bottom .features-item .card .card-text` - line 533
 - `#fotter` - line 540
 - `#fotter .fotter .fotter-item .fotter-heading h2` - line 547
+- `#fotter .fotter .fotter-item .fotter-write p` - line 554
+- `#fotter .fotter .fotter-item .fotter-list li` - line 560
+- `#fotter .fotter .fotter-item .fotter-list li a` - line 563
+- `#fotter .fotter .fotter-item .fotter-list li h6` - line 569
+- `#fotter .fotter .fotter-item .fotter-list li h6 a` - line 576
+- `#fotter .fotter .sub-fotter` - line 579
+- `#fotter .fotter .sub-fotter p` - line 585
+- `#fotter .fotter .sub-fotter p a` - line 591
