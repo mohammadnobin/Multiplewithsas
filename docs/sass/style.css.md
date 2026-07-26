@@ -217,3 +217,11 @@ Source: `sass/style.css` (951 lines)
 - `#fotter .fotter .sub-fotter` - line 579
 - `#fotter .fotter .sub-fotter p` - line 585
 - `#fotter .fotter .sub-fotter p a` - line 591
+- `#about-banner` - line 598
+- `#about-banner .about-banner h1` - line 606
+- `#about-banner .about-banner .for-link p a` - line 613
+- `#about-banner .about-banner .for-link p span` - line 617
+- `#about-us` - line 623
+- `#about-us .about-us .about-us-left img` - line 627
+- `#about-us .about-us .about-us-right .about-right-top h5` - line 630
+- `#about-us .about-us .about-us-right .about-right-top h2` - line 639
