@@ -32,3 +32,7 @@ Source: `sass/component/_pricing.scss` (204 lines)
 - `@media (min-width: 767px)and (max-width:991.98px)` - line 20
 - `#pricing` - line 30
 
+## Imported by
+
+- `sass/style.scss`
+
