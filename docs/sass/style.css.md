@@ -225,3 +225,11 @@ Source: `sass/style.css` (951 lines)
 - `#about-us .about-us .about-us-left img` - line 627
 - `#about-us .about-us .about-us-right .about-right-top h5` - line 630
 - `#about-us .about-us .about-us-right .about-right-top h2` - line 639
+- `#about-us .about-us .about-us-right .about-right-top p` - line 648
+- `#about-us .about-us .about-right-muddle` - line 657
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link` - line 662
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link:focus` - line 672
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link.active` - line 675
+- `#our-team` - line 679
+- `#our-team .our-team .our-team-bottom .team-item` - line 682
+- `#our-team .our-team .our-team-bottom .team-item:hover` - line 691
