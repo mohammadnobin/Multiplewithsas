@@ -25,3 +25,10 @@ Source: `sass/component/_pricing.scss` (204 lines)
 - `&:hover`
 - `a.btnprimary`
 
+## Outline
+
+- `@media (max-width: 576px)` - line 1
+- `@media (min-width: 576px)and (max-width: 767px)` - line 10
+- `@media (min-width: 767px)and (max-width:991.98px)` - line 20
+- `#pricing` - line 30
+
