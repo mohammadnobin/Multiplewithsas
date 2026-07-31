@@ -249,3 +249,11 @@ Source: `sass/style.css` (951 lines)
 - `#contact-us` - line 782
 - `#contact-us .contact-us .contact-left .form-control` - line 785
 - `#contact-us .contact-us .contact-left .form-control:focus` - line 795
+- `#contact-us .contact-us .contact-left .form-button` - line 807
+- `#contact-us .contact-us .contact-left .form-button:hover` - line 828
+- `#contact-us .contact-us .contact-right .contact-right-hader h6` - line 832
+- `#contact-us .contact-us .contact-right .contact-right-hader h2` - line 840
+- `#contact-us .contact-us .contact-right .contact-right-hader p` - line 848
+- `#contact-us .contact-us .contact-right .contact-right-meddle` - line 854
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul` - line 859
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li` - line 862
