@@ -146,3 +146,11 @@ Source: `css/style.css` (955 lines)
 - `.section-hader h2` - line 27
 - `.section-hader p` - line 38
 - `.activa` - line 47
+- `.navbar-nav .nav-link.active, .navbar-nav .nav-link.show` - line 60
+- `.nav-link:focus, .nav-link:hover` - line 64
+- `.navbar` - line 68
+- `.navbar li` - line 76
+- `.navbar li a` - line 79
+- `.navbar li a:hover` - line 88
+- `.navbar .nav-logo` - line 91
+- `.navbar .nav-logo span` - line 96
