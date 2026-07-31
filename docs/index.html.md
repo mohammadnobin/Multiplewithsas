@@ -49,3 +49,6 @@ Page title: **Multi page**
 - `<section>` - line 381
 - `<h2>` About Us - line 388
 - `<h2>` Hosting Plans - line 398
+- `<h2>` Useful Links - line 412
+- `<h2>` More Information - line 426
+
