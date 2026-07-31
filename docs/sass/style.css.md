@@ -241,3 +241,11 @@ Source: `sass/style.css` (951 lines)
 - `#our-service .our-service .our-service-hader` - line 720
 - `#our-service .our-service .our-service-hader h6` - line 723
 - `#our-service .our-service .our-service-hader h2` - line 731
+- `#our-service .our-service .our-service-hader p` - line 739
+- `#our-service .our-service .our-service-fotter .service-item .card` - line 745
+- `#our-service .our-service .our-service-fotter .service-item .card i` - line 754
+- `#our-service .our-service .our-service-fotter .service-item .card .card-title` - line 766
+- `#our-service .our-service .our-service-fotter .service-item .card .card-text` - line 775
+- `#contact-us` - line 782
+- `#contact-us .contact-us .contact-left .form-control` - line 785
+- `#contact-us .contact-us .contact-left .form-control:focus` - line 795
