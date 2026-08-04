@@ -178,3 +178,11 @@ Source: `css/style.css` (955 lines)
 - `#Services .service .service-top` - line 262
 - `#Services .service .service-top h4` - line 265
 - `#Services .service .service-top h2` - line 273
+- `#Services .service .service-top p` - line 281
+- `#Services .service-buttom .card` - line 287
+- `#Services .service-buttom .card i` - line 296
+- `#Services .service-buttom .card .card-title` - line 308
+- `#Services .service-buttom .card .card-text` - line 317
+- `@media (max-width: 576px)` - line 324
+- `@media (min-width: 576px) and (max-width: 767px)` - line 332
+- `@media (min-width: 767px) and (max-width: 991.98px)` - line 341
