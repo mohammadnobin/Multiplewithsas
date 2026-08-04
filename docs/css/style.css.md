@@ -162,3 +162,11 @@ Source: `css/style.css` (955 lines)
 - `.navbar .sing-up` - line 141
 - `.navbar .sing-up:hover` - line 159
 - `.scroll-color` - line 164
+- `.scroll-color a` - line 167
+- `#benner` - line 171
+- `#benner .banner h1` - line 179
+- `#benner .banner .banner-from input` - line 188
+- `#benner .banner .banner-from input::-moz-placeholder` - line 204
+- `#benner .banner .banner-from input::placeholder` - line 208
+- `#benner .banner .banner-from input:focus` - line 212
+- `#benner .banner .banner-from .search` - line 215
