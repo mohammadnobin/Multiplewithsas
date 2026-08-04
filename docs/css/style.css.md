@@ -154,3 +154,11 @@ Source: `css/style.css` (955 lines)
 - `.navbar li a:hover` - line 88
 - `.navbar .nav-logo` - line 91
 - `.navbar .nav-logo span` - line 96
+- `.navbar .nav-botton` - line 102
+- `.navbar .nav-botton:focus` - line 105
+- `.navbar .nav-botton .nav-icon` - line 108
+- `.navbar .log-in` - line 119
+- `.navbar .log-in:hover` - line 137
+- `.navbar .sing-up` - line 141
+- `.navbar .sing-up:hover` - line 159
+- `.scroll-color` - line 164
