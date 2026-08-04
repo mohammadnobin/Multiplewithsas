@@ -257,3 +257,11 @@ Source: `sass/style.css` (951 lines)
 - `#contact-us .contact-us .contact-right .contact-right-meddle` - line 854
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul` - line 859
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul li` - line 862
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li i` - line 870
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li i a` - line 882
+- `#map` - line 891
+- `#testimonials` - line 894
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators` - line 899
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]` - line 905
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target].active` - line 915
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]:focus` - line 918
