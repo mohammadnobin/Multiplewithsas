@@ -170,3 +170,11 @@ Source: `css/style.css` (955 lines)
 - `#benner .banner .banner-from input::placeholder` - line 208
 - `#benner .banner .banner-from input:focus` - line 212
 - `#benner .banner .banner-from .search` - line 215
+- `#benner .banner .csckbox` - line 230
+- `#benner .banner .csckbox input` - line 236
+- `#Trusted` - line 246
+- `#Trusted .trusted h4` - line 251
+- `#Services` - line 259
+- `#Services .service .service-top` - line 262
+- `#Services .service .service-top h4` - line 265
+- `#Services .service .service-top h2` - line 273
