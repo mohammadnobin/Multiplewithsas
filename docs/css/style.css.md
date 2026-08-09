@@ -226,3 +226,11 @@ Source: `css/style.css` (955 lines)
 - `#about-us` - line 626
 - `#about-us .about-us .about-us-left img` - line 630
 - `#about-us .about-us .about-us-right .about-right-top h5` - line 633
+- `#about-us .about-us .about-us-right .about-right-top h2` - line 642
+- `#about-us .about-us .about-us-right .about-right-top p` - line 651
+- `#about-us .about-us .about-right-muddle` - line 660
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link` - line 665
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link:focus` - line 675
+- `#about-us .about-us .about-right-bottom .nav-pills .nav-link.active` - line 678
+- `#our-team` - line 682
+- `#our-team .our-team .our-team-bottom .team-item` - line 685
