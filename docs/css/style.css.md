@@ -202,3 +202,11 @@ Source: `css/style.css` (955 lines)
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item` - line 441
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item i` - line 448
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other` - line 454
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other:hover` - line 483
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary` - line 487
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary:hover` - line 515
+- `#features` - line 519
+- `#features .features .features-bottom .features-item .card` - line 523
+- `#features .features .features-bottom .features-item .card .card-title` - line 530
+- `#features .features .features-bottom .features-item .card .card-text` - line 536
+- `#fotter` - line 543
