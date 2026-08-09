@@ -210,3 +210,11 @@ Source: `css/style.css` (955 lines)
 - `#features .features .features-bottom .features-item .card .card-title` - line 530
 - `#features .features .features-bottom .features-item .card .card-text` - line 536
 - `#fotter` - line 543
+- `#fotter .fotter .fotter-item .fotter-heading h2` - line 550
+- `#fotter .fotter .fotter-item .fotter-write p` - line 557
+- `#fotter .fotter .fotter-item .fotter-list li` - line 563
+- `#fotter .fotter .fotter-item .fotter-list li a` - line 566
+- `#fotter .fotter .fotter-item .fotter-list li h6` - line 572
+- `#fotter .fotter .fotter-item .fotter-list li h6 a` - line 579
+- `#fotter .fotter .sub-fotter` - line 582
+- `#fotter .fotter .sub-fotter p` - line 588
