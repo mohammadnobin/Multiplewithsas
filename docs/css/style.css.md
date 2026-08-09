@@ -186,3 +186,11 @@ Source: `css/style.css` (955 lines)
 - `@media (max-width: 576px)` - line 324
 - `@media (min-width: 576px) and (max-width: 767px)` - line 332
 - `@media (min-width: 767px) and (max-width: 991.98px)` - line 341
+- `#pricing` - line 349
+- `#pricing .pricing-head` - line 359
+- `#pricing .pricing-head h2` - line 364
+- `#pricing .pricing-head p` - line 372
+- `#pricing .pricing-bottom` - line 377
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2` - line 383
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-title` - line 397
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .defren-bg` - line 405
