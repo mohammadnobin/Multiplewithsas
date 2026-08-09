@@ -234,3 +234,11 @@ Source: `css/style.css` (955 lines)
 - `#about-us .about-us .about-right-bottom .nav-pills .nav-link.active` - line 678
 - `#our-team` - line 682
 - `#our-team .our-team .our-team-bottom .team-item` - line 685
+- `#our-team .our-team .our-team-bottom .team-item:hover` - line 694
+- `#our-team .our-team .our-team-bottom .team-item img` - line 697
+- `#our-team .our-team .our-team-bottom .team-item .down-content` - line 700
+- `#our-team .our-team .our-team-bottom .team-item .down-content h4` - line 706
+- `#our-team .our-team .our-team-bottom .team-item .down-content p` - line 713
+- `#our-service` - line 720
+- `#our-service .our-service .our-service-hader` - line 723
+- `#our-service .our-service .our-service-hader h6` - line 726
