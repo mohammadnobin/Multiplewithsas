@@ -218,3 +218,11 @@ Source: `css/style.css` (955 lines)
 - `#fotter .fotter .fotter-item .fotter-list li h6 a` - line 579
 - `#fotter .fotter .sub-fotter` - line 582
 - `#fotter .fotter .sub-fotter p` - line 588
+- `#fotter .fotter .sub-fotter p a` - line 594
+- `#about-banner` - line 601
+- `#about-banner .about-banner h1` - line 609
+- `#about-banner .about-banner .for-link p a` - line 616
+- `#about-banner .about-banner .for-link p span` - line 620
+- `#about-us` - line 626
+- `#about-us .about-us .about-us-left img` - line 630
+- `#about-us .about-us .about-us-right .about-right-top h5` - line 633
