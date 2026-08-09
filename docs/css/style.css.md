@@ -194,3 +194,11 @@ Source: `css/style.css` (955 lines)
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2` - line 383
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-title` - line 397
 - `#pricing .pricing-bottom .pricing-item .pricing-item-2 .defren-bg` - line 405
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-subtitle` - line 408
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-subtitle h6` - line 414
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-subtitle span` - line 422
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-text` - line 429
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .dev` - line 435
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item` - line 441
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .list-group-item i` - line 448
+- `#pricing .pricing-bottom .pricing-item .pricing-item-2 .card-button a.btnprimary-other` - line 454
