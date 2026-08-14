@@ -258,3 +258,11 @@ Source: `css/style.css` (955 lines)
 - `#contact-us .contact-us .contact-right .contact-right-hader p` - line 851
 - `#contact-us .contact-us .contact-right .contact-right-meddle` - line 857
 - `#contact-us .contact-us .contact-right .contact-right-fotter ul` - line 862
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li` - line 865
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li i` - line 873
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul li i a` - line 885
+- `#map` - line 894
+- `#testimonials` - line 897
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators` - line 902
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]` - line 908
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target].active` - line 918
