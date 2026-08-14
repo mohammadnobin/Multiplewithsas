@@ -250,3 +250,11 @@ Source: `css/style.css` (955 lines)
 - `#our-service .our-service .our-service-fotter .service-item .card .card-text` - line 778
 - `#contact-us` - line 785
 - `#contact-us .contact-us .contact-left .form-control` - line 788
+- `#contact-us .contact-us .contact-left .form-control:focus` - line 798
+- `#contact-us .contact-us .contact-left .form-button` - line 810
+- `#contact-us .contact-us .contact-left .form-button:hover` - line 831
+- `#contact-us .contact-us .contact-right .contact-right-hader h6` - line 835
+- `#contact-us .contact-us .contact-right .contact-right-hader h2` - line 843
+- `#contact-us .contact-us .contact-right .contact-right-hader p` - line 851
+- `#contact-us .contact-us .contact-right .contact-right-meddle` - line 857
+- `#contact-us .contact-us .contact-right .contact-right-fotter ul` - line 862
