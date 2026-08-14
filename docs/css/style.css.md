@@ -266,3 +266,9 @@ Source: `css/style.css` (955 lines)
 - `#testimonials .testimonials .testimonial-buttom .carousel-indicators` - line 902
 - `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]` - line 908
 - `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target].active` - line 918
+- `#testimonials .testimonials .testimonial-buttom .carousel-indicators [data-bs-target]:focus` - line 921
+- `#testimonials .testimonials .testimonial-buttom .testimonial-item i` - line 924
+- `#testimonials .testimonials .testimonial-buttom .testimonial-item p` - line 936
+- `#testimonials .testimonials .testimonial-buttom .testimonial-item h4` - line 943
+- `#testimonials .testimonials .testimonial-buttom .testimonial-item h6` - line 950
+
