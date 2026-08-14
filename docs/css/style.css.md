@@ -242,3 +242,11 @@ Source: `css/style.css` (955 lines)
 - `#our-service` - line 720
 - `#our-service .our-service .our-service-hader` - line 723
 - `#our-service .our-service .our-service-hader h6` - line 726
+- `#our-service .our-service .our-service-hader h2` - line 734
+- `#our-service .our-service .our-service-hader p` - line 742
+- `#our-service .our-service .our-service-fotter .service-item .card` - line 748
+- `#our-service .our-service .our-service-fotter .service-item .card i` - line 757
+- `#our-service .our-service .our-service-fotter .service-item .card .card-title` - line 769
+- `#our-service .our-service .our-service-fotter .service-item .card .card-text` - line 778
+- `#contact-us` - line 785
+- `#contact-us .contact-us .contact-left .form-control` - line 788
