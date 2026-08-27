@@ -20,3 +20,9 @@ Source: `sass/component/_features.scss` (30 lines)
 
 - `sass/style.scss`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 30 | 1 | 0 | 29 |
+
