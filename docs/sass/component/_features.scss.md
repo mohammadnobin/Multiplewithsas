@@ -26,3 +26,14 @@ Source: `sass/component/_features.scss` (30 lines)
 | --- | --- | --- | --- |
 | 30 | 1 | 0 | 29 |
 
+## Related files
+
+- `sass/component/_about.scss`
+- `sass/component/_banner.scss`
+- `sass/component/_common.scss`
+- `sass/component/_contact.scss`
+- `sass/component/_every-fotter.scss`
+- `sass/component/_every-header.scss`
+- `sass/component/_every-testimonial.scss`
+- `sass/component/_navber.scss`
+
