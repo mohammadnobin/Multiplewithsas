@@ -56,3 +56,9 @@ Page title: **Multi page**
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 454 | 13 | 15 | 426 |
+
