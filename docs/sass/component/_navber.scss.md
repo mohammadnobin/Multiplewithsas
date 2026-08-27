@@ -26,3 +26,9 @@ Source: `sass/component/_navber.scss` (102 lines)
 
 - `sass/style.scss`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 102 | 2 | 2 | 98 |
+
