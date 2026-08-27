@@ -30,3 +30,14 @@ Source: `sass/component/_services.scss` (70 lines)
 | --- | --- | --- | --- |
 | 70 | 1 | 0 | 69 |
 
+## Related files
+
+- `sass/component/_about.scss`
+- `sass/component/_banner.scss`
+- `sass/component/_common.scss`
+- `sass/component/_contact.scss`
+- `sass/component/_every-fotter.scss`
+- `sass/component/_every-header.scss`
+- `sass/component/_every-testimonial.scss`
+- `sass/component/_features.scss`
+
