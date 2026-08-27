@@ -24,3 +24,9 @@ Source: `sass/component/_services.scss` (70 lines)
 
 - `sass/style.scss`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 70 | 1 | 0 | 69 |
+
