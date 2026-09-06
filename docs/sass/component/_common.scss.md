@@ -32,3 +32,9 @@ Source: `sass/component/_common.scss` (60 lines)
 
 - `sass/style.scss`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 60 | 3 | 1 | 56 |
+
