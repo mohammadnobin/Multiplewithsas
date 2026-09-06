@@ -20,3 +20,9 @@ Source: `sass/component/_every-header.scss` (31 lines)
 
 - `sass/style.scss`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 31 | 1 | 0 | 30 |
+
