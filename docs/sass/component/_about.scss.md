@@ -35,3 +35,9 @@ Source: `sass/component/_about.scss` (106 lines)
 
 - `sass/style.scss`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 106 | 0 | 0 | 106 |
+
