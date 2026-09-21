@@ -22,3 +22,9 @@ Source: `sass/style.scss` (13 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 13 | 0 | 0 | 13 |
+
