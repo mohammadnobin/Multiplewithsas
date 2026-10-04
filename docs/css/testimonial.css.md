@@ -16,3 +16,13 @@ Source: `css/testimonial.css` (8 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 8 | 0 | 0 | 8 |
+
+## Related files
+
+- `css/style.css`
+
