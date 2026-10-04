@@ -25,3 +25,9 @@ Source: `sass/component/_every-fotter.scss` (67 lines)
 
 - `sass/style.scss`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 67 | 0 | 0 | 67 |
+
