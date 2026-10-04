@@ -36,3 +36,9 @@ Source: `sass/component/_pricing.scss` (204 lines)
 
 - `sass/style.scss`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 204 | 4 | 2 | 198 |
+
